@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hamburger</string>
+    <string name="btsecond">Ir a Hamburger</string>
+    <string name="txtsecond">Hamburger</string>
+    <string name="txtfragmenta">Fragment A</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
